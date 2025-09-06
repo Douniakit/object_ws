@@ -17,9 +17,3 @@ Scikit-learn
 OpenCV
 SciPy (implicit via sklearn)
 
-# Use Cases
-Robotic manipulation and grasping
-Augmented reality object placement
-3D scene understanding
-Industrial automation and quality control
-This implementation provides a robust foundation for 3D object detection in structured environments where rectangular objects need to be precisely located and oriented.
